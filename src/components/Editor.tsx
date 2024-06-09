@@ -1,5 +1,5 @@
 function Editor() {
-  return <div></div>;
+  return <div>editor (todo)</div>;
 }
 
 export default Editor;
